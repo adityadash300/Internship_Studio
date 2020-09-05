@@ -1,9 +1,9 @@
 # Internship_Studio
 ## Machine Learning Internship
 
-## Problem
+# Problem
 
-Marketing Campaign for Banking Products
+##Marketing Campaign for Banking Products
 
 ### Data Description
 
