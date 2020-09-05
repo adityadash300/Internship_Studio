@@ -59,7 +59,7 @@ loans.
 
 This project uses various models alongwith **Logistic Regression**.
 
-**Decision Tree** was chosen as the final model of the project and has been saved under the filename <font color = cyan>final_model</font>.
+**Decision Tree** was chosen as the final model of the project and has been saved under the filename <font color = cyan>final_model.sav</font>.
 
 Following are the inferences found in this project:
 
